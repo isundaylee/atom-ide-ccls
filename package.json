@@ -16,7 +16,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-languageclient": "^0.8.3"
+    "atom-languageclient": "^0.8.3",
+    "vscode-languageserver-types": "3.11.0"
   },
   "enhancedScopes": [
     "source.c",
