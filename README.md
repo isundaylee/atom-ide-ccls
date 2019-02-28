@@ -35,3 +35,7 @@ Use hyper-click (Command+Click on macOS, Control+Click on Linux/Windows) to go t
 Hovering on top of variables and functions shows their types/signatures. You can also pin a signature panel for easy access.
 
 ![Type and signature help example.](images/signature-help.gif)
+
+## Other Features
+
+- Semantic highlighting: Provides richer syntax highlighting based on program semantic (e.g. gives different colors to local variables, function parameters, and data members in a member function body). **Note: This feature is disabled by default. To use it, enable it in the package's settings panel.**
