@@ -1,4 +1,5 @@
 # master: Changes since the latest published version
+- :gift: Adds most `ccls` configurable options to the settings panel.
 
 # v0.3.0
 - :wrench: Upgrades `atom-languageclient` dependency version to pick up several auto-complete bug fixes.
